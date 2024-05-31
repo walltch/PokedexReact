@@ -17,7 +17,7 @@ const links = [
         <img
           src={`${process.env.PUBLIC_URL}/assets/banner.jpeg`}
           alt=""
-          className="absolute inset-0 -z-10 h-full w-full object-cover object-right md:object-center"
+          className="absolute inset-0 -z-10 h-full w-full object-cover object-right md:object-center filter brightness-50"
         />
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl lg:mx-0">
